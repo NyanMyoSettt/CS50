@@ -1,0 +1,8 @@
+Open Dictionary File (Done)
+Read Strings from file one at a time
+Create a new node for each word
+    Use malloc
+    Check if Null
+    Copy word into node using strcpy
+Hash word to obtain a hash value
+Insert node into hash table at that location

@@ -1,0 +1,14 @@
+sort1 uses: Bubble Sort
+
+How do you know?: it's the slowest in sorting the random numbers
+but the fastest in sorting the sorted numbers
+
+sort2 uses: Merge Sort
+
+How do you know?: it's the fastest in sorting the reversed numbers
+but the slowest in sorting the sorted numbers
+
+sort3 uses: Selection Sort
+
+How do you know?: it's the fastest in sorting the random numbers.
+
